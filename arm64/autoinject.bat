@@ -3,7 +3,7 @@ REM filepath: /c:/Users/Armando/Documents/BO3-MXT-Repack/MXT/Automation Script (
 setlocal
 
 :: Set the path to the DLL and the target process name
-set DLL_PATH="Dx11 ImGui - Black Ops lll.dll"
+set DLL_PATH="..\Dx11 ImGui - Black Ops lll.dll"
 set TARGET_PROCESS=BlackOps3.exe
 set INJECTOR_PATH="Injector.exe"
 
